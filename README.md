@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=cutevic95)](https://solved.ac/cutevic95)
+<!-- [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=cutevic95)](https://solved.ac/cutevic95) -->
 <!--
 **mandoo-it/mandoo-it** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
