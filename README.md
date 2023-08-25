@@ -1,4 +1,4 @@
-### Hi there 👋
+### 🌱 I’m currently learning ... cloud engineering
 
 <!-- [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=cutevic95)](https://solved.ac/cutevic95) -->
 <!--
