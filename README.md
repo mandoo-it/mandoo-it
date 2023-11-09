@@ -2,4 +2,4 @@
 
 
 
-﻿[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mandoo-it&langs_count=5&layout=compact)](https://github.com/mandoo-it)
+﻿[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mandoo-it&langs_count=5&layout=compact)](https://github.com/mandoo-it/)
